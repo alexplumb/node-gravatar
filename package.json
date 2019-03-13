@@ -7,10 +7,10 @@
     "package.json"
   ],
   "version": "1.8.0",
-  "author": "Emerson Macedo <emerleite@gmail.com>",
+  "author": "Alex Plumb <boneyjellyfish@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/emerleite/node-gravatar.git"
+    "url": "git://github.com/alexplumb/node-gravatar.git"
   },
   "dependencies": {
     "blueimp-md5": "^2.10.0",
