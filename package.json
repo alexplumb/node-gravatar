@@ -13,8 +13,8 @@
     "url": "git://github.com/emerleite/node-gravatar.git"
   },
   "dependencies": {
-    "blueimp-md5": "^2.3.0",
-    "email-validator": "^2.0.3",
+    "blueimp-md5": "^2.10.0",
+    "email-validator": "^2.0.4",
     "querystring": "0.2.0"
   },
   "devDependencies": {
